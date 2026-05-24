@@ -25,11 +25,11 @@ Python · Streamlit · Anthropic API · Tavily · BeautifulSoup
 pip install streamlit anthropic tavily-python beautifulsoup4 requests
 ```
 
-Set your API keys as environment variables:
+Add your API keys directly in `app.py`:
 
-```bash
-export ANTHROPIC_API_KEY=your_key_here
-export TAVILY_API_KEY=your_key_here
+```python
+client = anthropic.Anthropic(api_key="your_anthropic_key_here")
+tavily = TavilyClient(api_key="your_tavily_key_here")
 ```
 
 Then run:
