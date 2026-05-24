@@ -1,3 +1,4 @@
+<img width="1648" height="947" alt="NewsAnalysisAgent" src="https://github.com/user-attachments/assets/5bdce35f-27dc-4f47-bc12-7ebaded1f51b" />
 
 # News Analysis Agent
 
