@@ -1,3 +1,4 @@
+
 # News Analysis Agent
 
 An agentic AI chatbot that answers real-time news queries using the Claude API with tool use.
