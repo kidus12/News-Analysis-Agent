@@ -1,5 +1,3 @@
-<img width="1648" height="947" alt="NewsAnalysisAgent" src="https://github.com/user-attachments/assets/5bdce35f-27dc-4f47-bc12-7ebaded1f51b" />
-
 # News Analysis Agent
 
 An agentic AI chatbot that answers real-time news queries using the Claude API with tool use.
@@ -40,6 +38,4 @@ Then run:
 streamlit run app.py
 ```
 
-## Demo
-
-[screenshot here]
+<img width="1648" height="947" alt="NewsAnalysisAgent" src="https://github.com/user-attachments/assets/5bdce35f-27dc-4f47-bc12-7ebaded1f51b" />
