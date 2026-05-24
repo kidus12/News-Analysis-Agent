@@ -4,16 +4,16 @@ An agentic AI chatbot that answers real-time news queries using the Claude API w
 
 ## What it does
 
-The agent receives a user question and autonomously decides which tools to use — 
-searching the web, fetching full article text, or running calculations — then 
+The agent receives a user question and autonomously decides which tools to use by 
+searching the web, fetching full article text, or running calculations and then 
 synthesizes the results into a direct answer. Built on Claude's tool use API with 
 a multi-turn agentic loop.
 
 ## Tools
 
-- **Web Search** — queries Tavily for current news and information
-- **Fetch Article** — scrapes and extracts full text from a URL for deeper analysis
-- **Calculate** — evaluates math expressions for numerical/statistical questions
+- **Web Search**: queries Tavily for current news and information
+- **Fetch Article**: scrapes and extracts full text from a URL for deeper analysis
+- **Calculate**: evaluates math expressions for numerical/statistical questions
 
 ## Tech Stack
 
